@@ -7,3 +7,7 @@ All notes, rules, guidelines, and expectations for creating, editing, exporting,
 ## TVGP_Style_Guide
 
 All requirements for using the art for TVGP and all variations
+
+## WRI_Style_Guide
+
+All requirements for artwork related to We Roguelike It

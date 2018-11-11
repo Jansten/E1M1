@@ -6,4 +6,4 @@ The standards below are what you should use each time you use the logo, styling,
 
 ## Fonts
 
-- Main font: Press Start 2P
+- Main font: Press Start 2P Regular

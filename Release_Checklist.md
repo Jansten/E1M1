@@ -8,7 +8,5 @@ These are the steps and destinations for releasing various E1M1 Network shows
      * Released ONLY to Patreon, $2+ tier
 
 ## Monthly Releases
-* Old Dog New Flicks (ODNF): Releases last Friday of the month
-     * CANNOT BE RELEASED ON SPOTIFY.  All other destinations are okay.
 * Dynamic Soundtrack (DST): Releases on the 1st of the month
      * CANNOT BE RELEASED ON SPOTIFY.  All other destinations are okay.

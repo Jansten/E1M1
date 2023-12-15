@@ -23,7 +23,7 @@ These are the general, overall guidelines for TVGP (and all related shows).  For
 	* 44100 Hz, but 48000 Hz is preferred
 
 ## Audio Export Requirements 
-* Audio needs to be delivered to the editor in with the following requirements:
+* Audio needs to be delivered to the editor with the following requirements:
 	* Stereo
 	* 44100 Hz, 48000 Hz is preferred
 	* MP3

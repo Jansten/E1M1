@@ -28,12 +28,6 @@ These are the overall show details and descriptions for TVGP and all related TVG
 
 ### Long Description
 
-## Old Dog New Flicks
-
-### Short Description
-
-### Long Description
-
 ## Critical Misses
 
 ### Short Description
